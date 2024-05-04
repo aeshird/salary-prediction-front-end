@@ -1,7 +1,7 @@
 {%extends 'base.html'%} {% block page_title %} AI Salary Predictor {% endblock
 %} {%block content%}
 
-<h1>Predict your salary using AI</h1>
+<h1>Predict Your Salary Using AI</h1>
 {% if prediction %}
 <span class="prediction_text" id="output">
   Your predicted salary is: {{ "${:,.2f}".format(prediction.predicted_salary) }}
