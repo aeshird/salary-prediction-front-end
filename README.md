@@ -26,10 +26,6 @@ This project is the front end interface for a machine learning model built using
 
 ### Result
 
-This is the start page before any criteria has been filled in.
-
-<img src="images/ResultBefore.jpg" height="400">
-
 This is one example of a potential result after all criteria has been filled in.
 
 <img src="images/ResultAfter.jpg" height="400">
