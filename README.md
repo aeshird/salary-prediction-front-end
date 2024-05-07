@@ -1,6 +1,6 @@
 ## Salary Prediction Model (Front End)
 
-This project is the front end interface for a machine learning model built using Python (see: salary_predictor_api in my GitHub repositories). Once the front end interface was connected to the mmachine learning API, Microsoft Azure was used to create a Web App for users to access.
+This project is the front end interface for a machine learning model built using Python (see: salary_predictor_api). After the front end interface was connected to the machine learning API, Microsoft Azure was used to create a Web App for users to access the Salary Predictor.
 
 ---
 
@@ -28,17 +28,14 @@ This project is the front end interface for a machine learning model built using
 
 5. Run the application with `flask run`
 
-   a. To change the port: `flask run --port 8080`  
-   b. To run in debug mode: `flask run --debug`
-
 ---
 
 ### Result
 
-This is the result before you fill in your own criteria.
+This is the start page before any criteria has been filled in.
 
-<img src="images/ResultBefore.jpg" height="400" alt="This is the result before you fill in your own criteria.">
+<img src="images/ResultBefore.jpg" height="400">
 
-This is one example of a potential result after all criteria is filled in.
+This is one example of a potential result after all criteria has been filled in.
 
-<img src="images/ResultAfter.jpg" height="400" alt="This is one example of a potential result after all criteria is filled in.">
+<img src="images/ResultAfter.jpg" height="400">
