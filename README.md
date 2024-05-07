@@ -1,8 +1,12 @@
 ## Salary Prediction Model (Front End)
 
-![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge) ![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) 
+This project is the front end interface for a machine learning model built using Python (see: salary_predictor_api in my GitHub repositories). Once the front end interface was connected to the mmachine learning API, Microsoft Azure was used to create a Web App for users to access.
 
-This application uses Python [Flask](https://flask.palletsprojects.com/en/3.0.x/) to provide a user interface for the salary prediciton machine learning model API.
+---
+
+### Technical Skills Utilized
+
+![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge) ![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) 
 
 ---
 
@@ -32,7 +36,9 @@ This application uses Python [Flask](https://flask.palletsprojects.com/en/3.0.x/
 ### Result
 
 This is the result before you fill in your own criteria.
+
 <img src="images/ResultBefore.jpg" height="400" alt="This is the result before you fill in your own criteria.">
 
 This is one example of a potential result after all criteria is filled in.
+
 <img src="images/ResultAfter.jpg" height="400" alt="This is one example of a potential result after all criteria is filled in.">
